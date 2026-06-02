@@ -151,6 +151,8 @@ Execute o cliente:
 ```bash
 python sharkdesk_client.py
 ```
+Aplicação em funcionamento:
+<img width="778" height="603" alt="image" src="https://github.com/user-attachments/assets/d650ab35-877e-47fe-8d58-701dcbe955c8" />
 
 ---
 
